@@ -1,0 +1,7 @@
+## Interface: 11505
+## Title: GuildBlips
+## Notes: Adds a blip to the minimap for guild members.
+## Author: Cwide
+## Version: 1.0.0
+
+GuildBlips.lua
